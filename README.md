@@ -49,7 +49,7 @@ This project is the final assignment of the [Terraform course](https://api.accre
 
 - **Programming Languages:** Python (Intermediate) | Go (Basic)
 
-## 🎯 Hobbies & Interests
+### 🎯 Hobbies & Interests
 
 - Enjoying the wilderness
 
@@ -64,4 +64,4 @@ Former **competitive triathlete and runner**, planning to get back into it.
 
 ## 📫 Let's Connect!
 
-💼 [LinkedIn](https://www.linkedin.com/in/linsguilherme/)
+💼 [My LinkedIn](https://www.linkedin.com/in/linsguilherme/)
